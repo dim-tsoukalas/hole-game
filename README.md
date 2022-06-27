@@ -1,5 +1,5 @@
 # Intruduction
-Exercise at college to create a game with Murderer and Hole. Hole(you) is chasing Murderer and you need to catch him.
+Exercise at college to create a game with **Murderer** and **Hole**. Hole<sub>you</sub> is chasing Murderer and you need to catch him.
 
 # Technologies
 - [Java SE 17](https://www.oracle.com/java/technologies/downloads/archive/)
